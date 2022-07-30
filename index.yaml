@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  code-server:
+  - apiVersion: v2
+    appVersion: 4.5.1
+    created: "2022-07-30T11:44:46.610668572Z"
+    description: A Helm chart for coder/code-server
+    digest: 51664a18bdc1a87aac2d59cab6b499c38dd6f7236dc5b08431fdc49aa67e0b76
+    name: code-server
+    type: application
+    urls:
+    - https://github.com/swibrow/pitower-charts/releases/download/code-server-3.0.0/code-server-3.0.0.tgz
+    version: 3.0.0
+generated: "2022-07-30T11:44:46.610673072Z"
