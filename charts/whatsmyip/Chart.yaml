@@ -1,7 +1,7 @@
 apiVersion: v2
 name: whatsmyip
 description: Returns clients public ip
-version: 0.1.0
+version: 0.1.1
 type: application
 appVersion: "1.22"
 dependencies:
