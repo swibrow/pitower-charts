@@ -14,6 +14,20 @@ entries:
   whatsmyip:
   - apiVersion: v2
     appVersion: "1.22"
+    created: "2022-07-31T20:38:46.418209634Z"
+    dependencies:
+    - name: common
+      repository: https://library-charts.k8s-at-home.com
+      version: 4.4.2
+    description: Returns clients public ip
+    digest: 67280e90399c1403ca4a84b1cba664ff488c58c19b422bec7f33b40c1f3dbd82
+    name: whatsmyip
+    type: application
+    urls:
+    - https://github.com/swibrow/pitower-charts/releases/download/whatsmyip-0.1.1/whatsmyip-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: "1.22"
     created: "2022-07-31T18:18:36.159882573Z"
     dependencies:
     - name: common
@@ -26,4 +40,4 @@ entries:
     urls:
     - https://github.com/swibrow/pitower-charts/releases/download/whatsmyip-0.1.0/whatsmyip-0.1.0.tgz
     version: 0.1.0
-generated: "2022-07-31T18:18:36.159930474Z"
+generated: "2022-07-31T20:38:46.418217034Z"
