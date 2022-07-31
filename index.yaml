@@ -11,4 +11,19 @@ entries:
     urls:
     - https://github.com/swibrow/pitower-charts/releases/download/code-server-3.0.0/code-server-3.0.0.tgz
     version: 3.0.0
-generated: "2022-07-30T11:44:46.610673072Z"
+  whatsmyip:
+  - apiVersion: v2
+    appVersion: "1.22"
+    created: "2022-07-31T18:18:36.159882573Z"
+    dependencies:
+    - name: common
+      repository: https://library-charts.k8s-at-home.com
+      version: 4.4.2
+    description: Returns clients public ip
+    digest: 7a4e5f496fe66fd7ec06b91b9feeecbfd41d7a898e8d85434c8881af94d577c4
+    name: whatsmyip
+    type: application
+    urls:
+    - https://github.com/swibrow/pitower-charts/releases/download/whatsmyip-0.1.0/whatsmyip-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-07-31T18:18:36.159930474Z"
